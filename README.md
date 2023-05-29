@@ -2,7 +2,7 @@
 #
 $ FinTech Bootcamp Module 10 Challange due May 28, 2023
 
-# Challenge - Crypto Clustering using Unsupervised Learningc
+# Challenge - Crypto Clustering using Unsupervised Learning
 
 Crypto Investments jupyter notebook
 
